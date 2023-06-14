@@ -1,6 +1,7 @@
-## Getting Started
+## Inroduction
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+This repository contains the LLD solution pertaining to the following problemset:
+https://workat.tech/machine-coding/article/how-to-practice-for-machine-coding-kp0oj3sw2jca
 
 ## Folder Structure
 
